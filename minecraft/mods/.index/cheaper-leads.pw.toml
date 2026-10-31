@@ -1,0 +1,18 @@
+filename = 'cheaper-leads-1.0.jar'
+name = 'Cheaper Lead Recipe'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0+mod'
+
+[download]
+hash = 'f78571319bfbbfc6184cc8c62fc69049d9378229a5154f2fd9c5cd5bd1aec80a59b8bd2c45ee7c8e4b95d67b42baf4f14fa7bf2671d7de99bed01aab2bcb4164'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1kaaqyAb/versions/R4pCFGCg/cheaper-leads-1.0.jar'
+
+[update.modrinth]
+mod-id = '1kaaqyAb'
+version = 'R4pCFGCg'

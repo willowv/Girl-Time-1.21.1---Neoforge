@@ -1,0 +1,18 @@
+filename = 'cakechomps-neoforge-10.0.1+1.21.1.jar'
+name = 'Cake Chomps'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '10.0.1+1.21.1'
+
+[download]
+hash = '9f089fc869cc4adff9859871e991ca9d951e9ea4233bec39ec0f0f2a2dfd5680bef989e9e1e94c0bbfdc43e134070c2cf6576c7cc7e689662e06aea243428667'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g646EoqQ/versions/EaDMwEYt/cakechomps-neoforge-10.0.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'g646EoqQ'
+version = 'EaDMwEYt'

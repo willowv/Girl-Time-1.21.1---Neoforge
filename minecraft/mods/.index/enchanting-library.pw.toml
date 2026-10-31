@@ -1,0 +1,18 @@
+filename = 'enchanting-library-neoforge-1.21.1-1.0.0.jar'
+name = 'Enchanting Library'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '8e8311d69ce82200a72f9b9bf9bcc56283b241cb50d53872c890ac3b42b1502f4e56f96653a7f81cabf35ffb38ae6ae19657d3c1f031e5adc5c29cc3074b517c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FLQMa509/versions/AnGedFdR/enchanting-library-neoforge-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'FLQMa509'
+version = 'AnGedFdR'

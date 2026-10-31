@@ -1,0 +1,18 @@
+filename = 'villager_fish_shop-1.0.0-neoforge-1.21.1.jar'
+name = 'Villager Fish Shop'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '7e6d5b24834ad7150ab3baa9bd70c44373940cbee073979c4682f92e1aa681ba12c681e04021e6d20ddd90034556248a6795fb1c5b5c970d7ebe2aeff2de71c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PetjGGJ5/versions/H80NYuCy/villager_fish_shop-1.0.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'PetjGGJ5'
+version = 'H80NYuCy'

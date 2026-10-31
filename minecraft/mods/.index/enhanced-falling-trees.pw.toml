@@ -1,0 +1,21 @@
+filename = 'efallingtrees-0.7.0-1.21.1+neoforge.jar'
+name = 'Enhanced Falling Trees'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.7.0-1.21.1+neoforge'
+
+[download]
+hash = '158f96ebb6ef4e3b6364343662603e53299cf3784e29ca2b090b9e44cb9b5ae1e7a196ff6b404afeaa7a514812cf70c4bdc90b8eeb89c7e0805693d8a1338b7d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UJMd74i4/versions/dAWR6iLe/efallingtrees-0.7.0-1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'UJMd74i4'
+version = 'dAWR6iLe'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'Stackable Potions-neoforge-1.21.1-1.0.0.jar'
+name = 'Stackable Potions'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '6a38b61691f783c4c642955b7991b91971e463e2a449014dffebecb736fec9d84e9dbb0ef554a56298f82a325b071a2a83acae7038c8419eef1c8d9200d7c883'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yppxDTPT/versions/jSfL4JQ5/Stackable Potions-neoforge-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'yppxDTPT'
+version = 'jSfL4JQ5'

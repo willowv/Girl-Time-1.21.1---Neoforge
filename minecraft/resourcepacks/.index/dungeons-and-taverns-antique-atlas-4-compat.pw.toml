@@ -1,0 +1,18 @@
+filename = 'DnT Antique Atlas 4 Compat.zip'
+name = 'Dungeons and Taverns Antique Atlas 4 Compat'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2'
+
+[download]
+hash = '3205ec3e5aff3bcd17c4e4a77a33b106a707b29c898bb4dff49c84bcaf9c92953768760a100bf8922a1882895e1e3aff84d8a9b6dbe0708b5087f66f67d598ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BVnjPrua/versions/XNoPh6oZ/DnT Antique Atlas 4 Compat.zip'
+
+[update.modrinth]
+mod-id = 'BVnjPrua'
+version = 'XNoPh6oZ'

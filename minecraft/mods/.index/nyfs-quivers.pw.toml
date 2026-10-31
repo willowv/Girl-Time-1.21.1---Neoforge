@@ -1,0 +1,18 @@
+filename = 'nyfsquiver-neoforge-1.21.1-2.0.4.jar'
+name = "Nyf's Quivers"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.4'
+
+[download]
+hash = '33898757b2bb8058788e87dddcaafe2066866a99840fc81319f11a7f453f0b6906c2bcbf9109a41918232c1580c761f02909da96da7abb1695e33c1f86dcd477'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hReJ61of/versions/m9ZHtnGk/nyfsquiver-neoforge-1.21.1-2.0.4.jar'
+
+[update.modrinth]
+mod-id = 'hReJ61of'
+version = 'm9ZHtnGk'

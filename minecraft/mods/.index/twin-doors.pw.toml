@@ -1,0 +1,35 @@
+filename = 'twin-doors-V1.0.jar'
+name = 'Twin Doors'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'V1.0+mod'
+
+[download]
+hash = '7d5c573c04e548eeebae20c84f0b996a569f74abada30505c1d999158042ab80cf1828a68915af0c8ebeba81041cafb7b7dca62cd955e1f1b7fddcf2d67fd0f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L4jblbJt/versions/yZREBPb0/twin-doors-V1.0.jar'
+
+[update.modrinth]
+mod-id = 'L4jblbJt'
+version = 'yZREBPb0'

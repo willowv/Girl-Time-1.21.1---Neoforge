@@ -1,0 +1,18 @@
+filename = 'seamlesstrading-neoforge-1.21.1-1.3.0.jar'
+name = 'Seamless Trading'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0'
+
+[download]
+hash = '11163620242bd8844f6296b790e63826ac396edb273f7b93ce7ca7986a89e3a157bd388aba2119358de297412e20e009af5b57c6a1a9ba4cd589ad4b6ee8d846'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eo0oheIy/versions/LWt4256d/seamlesstrading-neoforge-1.21.1-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'eo0oheIy'
+version = 'LWt4256d'

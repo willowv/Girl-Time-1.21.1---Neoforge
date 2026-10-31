@@ -1,0 +1,18 @@
+filename = 'deadly-deadly-dungeon-1.0.4.jar'
+name = 'Deadly Deadly Dungeon'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4+mod'
+
+[download]
+hash = 'a5e8cb8639a6e19da120e97dde2ee2790761a7cdfaf5957c90f39688bcea6832cfc4c42a014abfa58c5bd82dde537bac213ebe7fe33669446e1e8f9e466177f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H1POBnTh/versions/MlHPA0g5/deadly-deadly-dungeon-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'H1POBnTh'
+version = 'MlHPA0g5'

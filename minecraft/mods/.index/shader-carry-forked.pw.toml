@@ -1,0 +1,21 @@
+filename = 'shader-carry-neoforge-1.21.1-2.0.0.jar'
+name = 'Shader Carry Forked'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = '0326a1d502c6203ee86373ffddb23c87a636b40f1a6035dc0f2af019964a8fbb9a5aff4e5d73a60d40d8c1eedca1340689e83eb3774e8c059c9c36cbf3eb96ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dExGcmQ3/versions/12FffD9S/shader-carry-neoforge-1.21.1-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'dExGcmQ3'
+version = '12FffD9S'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'joEfVgkn'
+type = 'REQUIRED'

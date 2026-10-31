@@ -1,0 +1,4 @@
+#FullBelly Configuration
+[general]
+	#Enable debug mode - shows exhaustion details in chat box
+	debug_mode = false

@@ -1,0 +1,38 @@
+filename = 'village-map-on-start-1.1.jar'
+name = 'Village Map on Start'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1+mod'
+
+[download]
+hash = '3c83276fa6325300c632d7b35f12383f5f05dde3f89a84e11d89790dd0eeb82c017fbecbd529d6af513574dcc2207cdd95d8cce723f9de23a43a56a21716b2d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EsO0VKKf/versions/hUfnVlp5/village-map-on-start-1.1.jar'
+
+[update.modrinth]
+mod-id = 'EsO0VKKf'
+version = 'hUfnVlp5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qvIfYCYJ'
+type = 'REQUIRED'

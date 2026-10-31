@@ -1,0 +1,18 @@
+filename = 'cropxp-neoforge-1.21.1-1.1.0-neoforge-1.21.1.jar'
+name = 'CropXP'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0-neoforge-1.21.1'
+
+[download]
+hash = 'c33764f6e33b12aee4105d4b3cd45b8ef630fe16cbc0edd1df7735bf5b89566786756401b4e1df03b163d6f364cc28f3ebab95a781885dad8926c345c3179b4a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/d3lKBDnb/versions/OUeWc3Eu/cropxp-neoforge-1.21.1-1.1.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'd3lKBDnb'
+version = 'OUeWc3Eu'

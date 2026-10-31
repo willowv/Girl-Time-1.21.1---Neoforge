@@ -1,0 +1,18 @@
+filename = 'puncher-neoforge-2.0.0+1.20.6.jar'
+name = 'Puncher'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.20.6', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-2.0.0+1.20.6'
+
+[download]
+hash = 'd676d232cbbbe699ba0badbd668e17edf64488851a58b24c0f8bba390c1e4d3678a20323283fabe76a8c106525c4701ab277c1d48ffb4a6cfbeaa724c33554b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2Qlu5M7f/versions/1fCEUtuW/puncher-neoforge-2.0.0%2B1.20.6.jar'
+
+[update.modrinth]
+mod-id = '2Qlu5M7f'
+version = '1fCEUtuW'
