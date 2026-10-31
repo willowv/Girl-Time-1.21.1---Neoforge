@@ -59,8 +59,8 @@
   },
   "treeBreaking": {
     "enableBreakingSpeedModification": true,
-    "axeSpeedMultiplier": 80,
-    "noAxeSpeedMultiplier": 30,
+    "axeSpeedMultiplier": 30,
+    "noAxeSpeedMultiplier": 20,
     "isLootDropOnSingleBlock": false
   }
 }
