@@ -28,18 +28,7 @@
         "fisherman_obj_fish_random_A": {
             "type": "item",
             "rarity": "RARE",
-            "content": "#girl_time:rare_fish_A",
-            "amount": {
-                "min": 1,
-                "max": 1
-            },
-            "unitWorth": 5000
-        },
-
-        "fisherman_obj_fish_random_B": {
-            "type": "item",
-            "rarity": "RARE",
-            "content": "#girl_time:rare_fish_B",
+            "content": "#c:foods/raw_fishes",
             "amount": {
                 "min": 1,
                 "max": 1
@@ -50,18 +39,7 @@
         "fisherman_obj_live_fish_random_A": {
             "type": "item",
             "rarity": "EPIC",
-            "content": "#girl_time:rare_fish_bucket_A",
-            "amount": {
-                "min": 1,
-                "max": 1
-            },
-            "unitWorth": 10000
-        },
-
-        "fisherman_obj_live_fish_random_B": {
-            "type": "item",
-            "rarity": "EPIC",
-            "content": "#girl_time:rare_fish_bucket_B",
+            "content": "#c:entity_water_buckets",
             "amount": {
                 "min": 1,
                 "max": 1
