@@ -71,7 +71,7 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -109,8 +109,8 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -133,6 +133,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_key.curios.open.desc:key.keyboard.g
 key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
