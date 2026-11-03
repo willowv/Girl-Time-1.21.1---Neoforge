@@ -10,26 +10,26 @@ clockAccessory = true
 compassAccessory = true
 recoveryCompassAccessory = true
 calendarAccessory = true
-elytraAccessory = true
+elytraAccessory = false
 spyglassAccessory = true
 lanternAccessory = true
 totemOfUndyingAccessory = true
-enderChestAccessory = true
-shulkerBoxAccessory = true
-arrowAccessory = true
+enderChestAccessory = false
+shulkerBoxAccessory = false
+arrowAccessory = false
 
 [infoOverlaySettings]
-showYCoordinate = true
+showYCoordinate = false
 obfuscateCompassIfNotOverworld = false
 obfuscateClockIfNotOverworld = true
 useObfuscationEffect = true
 
 [infoOverlaySettings.overlayFields]
-coordinates = true
+coordinates = false
 direction = true
 biome = true
 dayAndTime = true
-weather = true
-moonPhase = true
+weather = false
+moonPhase = false
 season = true
 lastDeathLocation = true

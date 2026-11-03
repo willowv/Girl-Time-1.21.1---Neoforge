@@ -20,7 +20,7 @@
   "neverDespawnDeathDrops": false,
   "itemSpreadMultiplier": 1.0,
   "explosionResistantDeathDrops": false,
-  "keptItemOverrides": ["aa4-atlas:antique_atlas", "minecraft:bundle", "quiver:quiver", "quiver:iron_quiver", "quiver:diamond_quiver", "quiver:netherite_quiver", "horse_whistle:horse_whistle_item", "respawnablepets:etheric_gem", "minecraft:compass", "minecraft:clock"],
+  "keptItemOverrides": ["aa4-atlas:antique_atlas", "minecraft:bundle", "nyfsquiver:quiver", "friendsforlife:pet_roster", "friendsforlife:collar", "xpbook:xp_tome"],
   "droppedItemOverrides": [],
   "destroyedItemOverrides": [],
   "bypassKeepInventoryDimensions": [],

@@ -10,7 +10,7 @@
 	#If enabled, Waystones will add markers for waystones and sharestones to Dynmap.
 	dynmap = true
 	#Set to true to apply Waystones' entity teleport packet fix to all entity teleports, including vanilla and other mods.
-	fixVanillaTeleportBug = false
+	fixVanillaTeleportBug = true
 
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
@@ -30,7 +30,7 @@
 	nameGenerationMode = "PRESET_FIRST"
 	#Set to REGULAR to have waystones spawn in some villages. Set to FREQUENT to have waystones spawn in most villages. Set to DISABLED to disable waystone generation in villages. Waystones will only spawn in vanilla or supported villages.
 	#Allowed Values: DISABLED, REGULAR, FREQUENT
-	spawnInVillages = "REGULAR"
+	spawnInVillages = "DISABLED"
 	#Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.
 	#Allowed Values: DEFAULT, MOSSY, SANDY, BLACKSTONE, RED_NETHER_BRICKS, DEEPSLATE, END_STONE, PURPUR, PRISMARINE, MUD_BRICKS, BIOME
 	wildWaystoneStyle = "BIOME"

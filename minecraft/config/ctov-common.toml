@@ -3,9 +3,9 @@
 	#Should CTOV small village generates?
 	generatesmallVillage = true
 	#Should CTOV medium village generates?
-	generatemediumVillage = true
+	generatemediumVillage = false
 	#Should CTOV large village generates?
-	generatelargeVillage = true
+	generatelargeVillage = false
 	#Should CTOV Pillager Outpost generates?
 	generatePillagerOutpost = true
 	#Which villages should generate
