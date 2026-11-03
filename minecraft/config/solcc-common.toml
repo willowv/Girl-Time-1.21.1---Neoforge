@@ -1,0 +1,10 @@
+#Any food with saturation below this threshold does not count toward max health progress. Helpful for filtering out things like raw meat without having to individually specify them. The max here of 13 would make cooked steak not count, in case you only want very complex meals to be considered.
+# Default: 2.0
+# Range: 0.0 ~ 13.0
+saturationThreshold = 2.0
+#This is the maximum amount of additional hearts the mod can grant. The bonus thresholds are calculated by dividing the total unique saturation of valid registered food items by this number + 1.
+# Default: 10
+# Range: 1 ~ 20
+maxBonusHearts = 10
+#Whether foods which have the potential to inflict negative effects on the player should contribute toward max health progress.
+includeUnhealthyFood = false

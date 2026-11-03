@@ -26,3 +26,4 @@ minecraft/usernamecache.json
 *.log
 instance.cfg
 minecraft/command_history.txt
+minecraft/dynamic-resource-pack-cache/hash.txt

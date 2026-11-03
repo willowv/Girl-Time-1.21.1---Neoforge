@@ -16,11 +16,166 @@
 
   // this is a list of custom spread factors
   "customSpreadFactors": [
-    // example of the mansion being doubled in rarity (the mod's default)
     {
-      "structure": "minecraft:mansion",
-      "factor": 2
+      "structure": "mss:arena",
+      "factor": 3
     },
+    {
+      "structure": "mss:birch_river",
+      "factor": 3
+    },
+    {
+      "structure": "mss:calcite_house",
+      "factor": 3
+    },
+    {
+      "structure": "mss:castle_ruin",
+      "factor": 3
+    },
+    {
+      "structure": "mss:castle_tower",
+      "factor": 3
+    },
+    {
+      "structure": "mss:cherry_river",
+      "factor": 3
+    },
+    {
+      "structure": "mss:desert_pyramid",
+      "factor": 3
+    },
+    {
+      "structure": "mss:desert_well",
+      "factor": 3
+    },
+    {
+      "structure": "mss:diorite_house",
+      "factor": 3
+    },
+    {
+      "structure": "mss:frozen_pond",
+      "factor": 3
+    },
+    {
+      "structure": "mss:jungle",
+      "factor": 3
+    },
+    {
+      "structure": "mss:large_tower",
+      "factor": 3
+    },
+    {
+      "structure": "mss:leaf_hollow",
+      "factor": 3
+    },
+    {
+      "structure": "mss:mangrove",
+      "factor": 3
+    },
+    {
+      "structure": "mss:muddy_water_hole",
+      "factor": 3
+    },
+    {
+      "structure": "mss:mushroom",
+      "factor": 3
+    },
+    {
+      "structure": "mss:nether_portal",
+      "factor": 3
+    },
+    {
+      "structure": "mss:palm_island",
+      "factor": 3
+    },
+    {
+      "structure": "mss:red_sand",
+      "factor": 3
+    },
+    {
+      "structure": "mss:small_deepslate_house",
+      "factor": 3
+    },
+    {
+      "structure": "mss:small_oak_house",
+      "factor": 3
+    },
+    {
+      "structure": "mss:small_pond",
+      "factor": 3
+    },
+    {
+      "structure": "mss:small_tower",
+      "factor": 3
+    },
+    {
+      "structure": "mss:spruce_huts",
+      "factor": 3
+    },
+    {
+      "structure": "mss:taiga",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_1",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_2",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_3",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_4",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_5",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_6",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_7",
+      "factor": 3
+    },
+    {
+      "structure": "mss:tree_8",
+      "factor": 3
+    },
+    {
+      "structure": "mss:volcano",
+      "factor": 3
+    },
+    {
+      "structure": "mss:white_house",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:end_cities",
+      "factor": 0.75
+    },
+    {
+      "structure": "minecraft:nether_complexes",
+      "factor": 1
+    },
+    {
+      "structure": "betterfortresses:fortress",
+      "factor": 0.75
+    },
+    {
+      "structure": "minecraft:ruined_portals",
+      "factor": 1
+    },
+    {
+      "structure": "minecraft:pillager_outposts",
+      "factor": 1
+    }
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)
     //
