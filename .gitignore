@@ -24,3 +24,4 @@ minecraft/usernamecache.json
 *.jar
 *.zip
 *.log
+instance.cfg
