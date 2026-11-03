@@ -25,3 +25,4 @@ minecraft/usernamecache.json
 *.zip
 *.log
 instance.cfg
+minecraft/command_history.txt
