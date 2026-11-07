@@ -47,5 +47,8 @@
         "travelersbackpack:iron_golem",
         "reliable_requiem:crystal_shard",
         "reliable_requiem:crystal_heart"
+    ],
+    "enchantments": [
+        "minecraft:mending"
     ]
 }
