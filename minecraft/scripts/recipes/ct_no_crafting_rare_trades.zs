@@ -15,3 +15,9 @@ craftingTable.remove(<item:travelersbackpack:magnet_upgrade>);
 craftingTable.remove(<item:travelersbackpack:pickup_upgrade>);
 craftingTable.remove(<item:travelersbackpack:refill_upgrade>);
 craftingTable.remove(<item:travelersbackpack:void_upgrade>);
+craftingTable.remove(<item:travelersbackpack:iron_tier_upgrade>);
+craftingTable.remove(<item:travelersbackpack:gold_tier_upgrade>);
+craftingTable.remove(<item:travelersbackpack:diamond_tier_upgrade>);
+craftingTable.remove(<item:travelersbackpack:netherite_tier_upgrade>);
+
+craftingTable.remove(<item:minecraft:jukebox>);

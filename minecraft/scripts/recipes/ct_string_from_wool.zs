@@ -1,1 +1,1 @@
-<recipetype:farmersdelight:cutting>.addRecipe("string_from_wool", <tag:items:minecraft:wool>, [<item:minecraft:string> * 4 % 75], <tag:items:c:shears>);
+<recipetype:farmersdelight:cutting>.addRecipe("string_from_wool", <tag:item:minecraft:wool>, [<item:minecraft:string> * 4 % 75], <tag:item:c:tools/shears>);

@@ -1,2 +1,1 @@
-<tag:worldgen/biome:estrogen:spawns_moth>.addId(<resource:biomesoplenty:mystic_grove>);
-<tag:worldgen/biome:estrogen:spawns_moth>.addId(<resource:biomesoplenty:mediterranean_forest>);
+<tag:worldgen/biome:estrogen:spawns_moth>.add(<tag:worldgen/biome:c:is_tree/deciduous>);
