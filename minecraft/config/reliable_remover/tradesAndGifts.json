@@ -1,5 +1,5 @@
 {
-    "action": ["remove_recipe", "remove_loot"],
+    "actions": ["remove_recipe", "remove_loot"],
     "items": [
         "minecraft:bundle",
         "aa4-atlas:antique_atlas",

@@ -17,7 +17,7 @@
   "enableRrvRemoval": false,
   "showRrvToast": true,
   "showRrvChatMessages": true,
-  "enableEmiRemoval": false,
+  "enableEmiRemoval": true,
   "showEmiToast": true,
   "showEmiChatMessages": true,
   "enableJeiRemoval": false,
