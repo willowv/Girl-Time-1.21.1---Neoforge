@@ -41,11 +41,11 @@
 	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
 	allowBabies = false
 	#Use Whitelist instead of Blacklist for Blocks
-	useWhitelistBlocks = false
+	useWhitelistBlocks = true
 	#Use Whitelist instead of Blacklist for Entities
-	useWhitelistEntities = false
+	useWhitelistEntities = true
 	#Use Whitelist instead of Blacklist for Stacking
-	useWhitelistStacking = false
+	useWhitelistStacking = true
 	#Whether the player can hit blocks and entities while carrying or not
 	hitWhileCarrying = false
 	#Whether the player drops the carried object when hit or not
@@ -66,9 +66,9 @@
 [whitelist]
 	#Whitelist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
 	#Entities that CAN be picked up (useWhitelistEntities must be true)
-	allowedEntities = []
+	allowedEntities = ["#c:boats", "#c:minecarts"]
 	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
-	allowedBlocks = []
+	allowedBlocks = ["#c:chests", "#c:barrels", "#farmersdelight:cabinets"]
 	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
 	allowedStacking = []
 
