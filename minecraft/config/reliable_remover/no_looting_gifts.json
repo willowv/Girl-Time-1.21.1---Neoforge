@@ -1,0 +1,31 @@
+[
+    {
+        "action": "remove_loot",
+        "items": [
+            "minecraft:bundle",
+            "aa4-atlas:antique_atlas",
+            "friendsforlife:pet_roster",
+            "friendsforlife:collar",
+            "xpbook:xp_tome",
+            "explorerscompass:explorerscompass",
+            "naturescompass:naturescompass",
+            "travelersbackpack:crafting_upgrade",
+            "travelersbackpack:furnace_upgrade",
+            "travelersbackpack:blast_furnace_upgrade",
+            "travelersbackpack:smoker_upgrade",
+            "travelersbackpack:tanks_upgrade",
+            "travelersbackpack:feeding_upgrade",
+            "travelersbackpack:magnet_upgrade",
+            "travelersbackpack:pickup_upgrade",
+            "travelersbackpack:refill_upgrade",
+            "travelersbackpack:void_upgrade",
+            "travelersbackpack:jukebox_upgrade",
+            "travelersbackpack:iron_tier_upgrade",
+            "travelersbackpack:gold_tier_upgrade",
+            "travelersbackpack:diamond_tier_upgrade",
+            "travelersbackpack:netherite_tier_upgrade",
+            "minecraft:jukebox",
+            "supplementaries:quiver"
+        ]
+    }
+]

@@ -1,6 +1,7 @@
-{
-    "actions": ["remove_recipe", "remove_loot"],
-    "items": [
+[
+  {
+    "action": "remove_recipe",
+    "output": [
         "minecraft:bundle",
         "aa4-atlas:antique_atlas",
         "friendsforlife:pet_roster",
@@ -18,10 +19,12 @@
         "travelersbackpack:pickup_upgrade",
         "travelersbackpack:refill_upgrade",
         "travelersbackpack:void_upgrade",
+        "travelersbackpack:jukebox_upgrade",
         "travelersbackpack:iron_tier_upgrade",
         "travelersbackpack:gold_tier_upgrade",
         "travelersbackpack:diamond_tier_upgrade",
         "travelersbackpack:netherite_tier_upgrade",
         "minecraft:jukebox"
     ]
-}
+  }
+]
