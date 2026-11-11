@@ -1,0 +1,18 @@
+filename = 'BabyAnimalsRemastered_1.21.5_v1.5.zip'
+name = 'Baby Animals Remastered'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.5_v1.5'
+
+[download]
+hash = '0c8c09c66326621e6515901797a6effa2163ed4f9a2747669adc6460c31ce7ff8e07ffccd815d3ad603ee1d3cb9f3c94e86061090c74d6590b0768be03bf5b58'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gZJVL0dl/versions/2aJ2p94R/BabyAnimalsRemastered_1.21.5_v1.5.zip'
+
+[update.modrinth]
+mod-id = 'gZJVL0dl'
+version = '2aJ2p94R'

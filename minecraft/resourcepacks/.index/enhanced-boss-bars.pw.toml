@@ -1,18 +1,18 @@
 filename = '[1.6] Enhanced Boss Bars.zip'
 name = 'Enhanced Boss Bars'
-side = 'client'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2', '26.3' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '1.6'
 
 [download]
-hash = '68e604948b630850313188104e16ada0afa8ee28d071c68523a1c85ba092768d6b69807b82b4cb2a27ce567a9a61aa88e7ecef5aeaa96fb194dec13cf3c7f500'
+hash = 'b1ba1ab0235b33eb650931c0e0534c552a6c720962f11972a00f7bbbbfdf3560c56e07e9f700e18f7531a4ce03a2f4266c5e62c6694ee9fd38cebb976fa5d919'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/U5SedJ9S/versions/ShyA8a0U/%5B1.6%5D Enhanced Boss Bars.zip'
+url = 'https://cdn.modrinth.com/data/U5SedJ9S/versions/4dNK8b2b/%5B1.6%5D Enhanced Boss Bars.zip'
 
 [update.modrinth]
 mod-id = 'U5SedJ9S'
-version = 'ShyA8a0U'
+version = '4dNK8b2b'
