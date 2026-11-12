@@ -1,7 +1,7 @@
 {
     "board": {
         "updateFrequencySecs": 45,
-        "villageGenFrequency": 2,
+        "villageGenFrequency": 0,
         "canBreak": true
     },
     "bounty": {
@@ -28,9 +28,8 @@
     },
     "general": {
         "dataPathsToExclude": [
-            "bounty_pools/bountiful/example_pool",
-            "bounty_pools/*/another_example",
-            "bounty_decrees/other/*"
+            "bounty_pools/bountiful/*",
+            "bounty_decrees/bountiful/*"
         ]
     }
 }

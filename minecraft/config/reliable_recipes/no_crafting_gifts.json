@@ -24,7 +24,8 @@
         "travelersbackpack:gold_tier_upgrade",
         "travelersbackpack:diamond_tier_upgrade",
         "travelersbackpack:netherite_tier_upgrade",
-        "minecraft:jukebox"
+        "minecraft:jukebox",
+        "bountiful:decree"
     ]
   }
 ]
