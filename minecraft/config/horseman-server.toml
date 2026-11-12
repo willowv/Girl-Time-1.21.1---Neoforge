@@ -44,7 +44,7 @@
 [summoning]
 	#Copper Horn item is enabled. If set to false, item will not be craftable and usable.
 	#Default: true
-	copper_horn_enabled = true
+	copper_horn_enabled = false
 	#Range in blocks where Copper Horn tooting sound can be heard by other players. Goat Horn has range of 256.
 	# Default: 256
 	# Range: 16 ~ 256
