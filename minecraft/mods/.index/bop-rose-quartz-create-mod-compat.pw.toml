@@ -1,0 +1,18 @@
+filename = 'rose-quartz-compat-1.21.1-1.3.jar'
+name = 'Rose Quartz Compat'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = '07ba13ce4a3e9fff237023ec77e4c07bfa3637b79cab7fc26aa012283f4de0b0d8e71759ee539be19e3933573a5f96706f36b0a03bd803b247b3c11b607d80a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mksTBGrj/versions/n0Hm330O/rose-quartz-compat-1.21.1-1.3.jar'
+
+[update.modrinth]
+mod-id = 'mksTBGrj'
+version = 'n0Hm330O'
