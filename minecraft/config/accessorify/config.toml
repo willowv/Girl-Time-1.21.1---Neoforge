@@ -7,8 +7,8 @@ preventElytraRightClickEquip = false
 
 [accessorySettings]
 clockAccessory = true
-compassAccessory = true
-recoveryCompassAccessory = true
+compassAccessory = false
+recoveryCompassAccessory = false
 calendarAccessory = true
 elytraAccessory = false
 spyglassAccessory = true
@@ -26,10 +26,10 @@ useObfuscationEffect = true
 
 [infoOverlaySettings.overlayFields]
 coordinates = false
-direction = true
+direction = false
 biome = true
 dayAndTime = true
 weather = false
 moonPhase = false
 season = true
-lastDeathLocation = true
+lastDeathLocation = false

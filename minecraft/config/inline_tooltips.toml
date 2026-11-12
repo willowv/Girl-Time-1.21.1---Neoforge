@@ -72,21 +72,21 @@
 [textTooltips]
 	# Add tooltips to Compasses with the player's coordinates.
 	# default: true
-	compassTooltip = true
+	compassTooltip = false
 	# Compass tooltip colour.
 	# matches r'#[0-9A-Fa-f]{6}'
 	# default: #ff5555
 	compassTooltipColour = "#ff5555"
 	# Add tooltips based on Lodestone Compass's destination.
 	# default: true
-	lodestoneTooltip = true
+	lodestoneTooltip = false
 	# Lodestone Compass tooltip colour.
 	# matches r'#[0-9A-Fa-f]{6}'
 	# default: #ffaa00
 	lodestoneCompassTooltipColour = "#ffaa00"
 	# Add tooltips based on Recovery Compass's destination.
 	# default: true
-	recoveryCompassTooltip = true
+	recoveryCompassTooltip = false
 	# Recovery Compass tooltip colour.
 	# matches r'#[0-9A-Fa-f]{6}'
 	# default: #55ffff
@@ -101,7 +101,7 @@
 	day_count = true
 	# Whether to show the clock in a 24 hour format.
 	# default: true
-	twenty_four_hour_clock = true
+	twenty_four_hour_clock = false
 	# Text colour of the clock tooltip.
 	# matches r'#[0-9A-Fa-f]{6}'
 	# default: #ffaa00

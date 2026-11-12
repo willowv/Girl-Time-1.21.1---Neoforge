@@ -1,18 +1,21 @@
-filename = 'supplementaries-neoforge-1.21.1-3.6.8.jar'
+filename = 'supplementaries-neoforge-1.21.1-3.7.2.jar'
 name = 'Supplementaries'
 side = 'both'
-x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-3.6.8'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-3.7.2'
 
 [download]
-hash = '5636533508d2ea9192b304760a254999e258458f7cd4609793083137df4243aa6e990009866b4aa79129853c0829606115f14fbe69005d99d9139b3d3a555c28'
+hash = '4ac49330508b9b367ba821a6d04e38377240f8baf3a6e2f095f1e8d9180b6ec78b3982add8c271b1451b53d64831819a82876892e4b282f61cd6bce177c263ff'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/Agn1kmUY/supplementaries-neoforge-1.21.1-3.6.8.jar'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/ALwhbINd/supplementaries-neoforge-1.21.1-3.7.2.jar'
 
 [update.modrinth]
 mod-id = 'fFEIiSDQ'
-version = 'Agn1kmUY'
+version = 'ALwhbINd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'twkfQtEc'
+type = 'REQUIRED'
