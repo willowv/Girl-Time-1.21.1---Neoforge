@@ -33,6 +33,7 @@
 - idas:tudor_pub has huge gendered bathrooms, which is kind of funny but I have to decide how I feel about keeping that in my trans mod
 - Integrated Structures has lore books in its loot tables that introduce what seem to be canonically male characters, I might need to specifically pull those out given my "all Villagers are TMA" premise
 - It would be good to tweak loot generally, removing stupid items and lowering quantities all aroound
+- Craft Tweaker isn't able to edit loot drops anymore it seems, so if I want to make a source of purple dye in the nether I will need to work that out
 
 # Possible finishing touches
 - Add advancements for the Girl Time modpack
