@@ -1,0 +1,12 @@
+[
+    {
+        "action": "remove_chest_loot",
+        "items": [
+            "minecraft:rabbit_stew",
+            "minecraft:rabbit_foot",
+            "minecraft:rabbit_hide",
+            "minecraft:cooked_rabbit",
+            "minecraft:rabbit"
+        ]
+    }
+]
