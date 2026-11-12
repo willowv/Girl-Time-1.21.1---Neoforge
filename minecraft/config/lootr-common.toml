@@ -68,7 +68,7 @@
 	#allows fake players to destroy Lootr chests without having to sneak, overrides the `disable_break` option for fake players
 	enable_fake_player_break = false
 	#lootr chests cannot be destroyed by creeper or TNT explosions
-	blast_resistant = false
+	blast_resistant = true
 	#lootr chests cannot be destroyed by any explosion
 	blast_immune = false
 	#lootr brushable blocks will not fall if the blocks under them are broken
@@ -76,7 +76,7 @@
 	#lootr item frames will not break if the blocks they are attached to are broken
 	item_frames_self_support = false
 	#lootr chests will drop the contents of the player-specific inventory (generated when not generated) when broken
-	should_drop_player_loot = false
+	should_drop_player_loot = true
 	#breaking a lootr chest (while not sneaking) will drop a player's loot but not destroy the block, simply marking it as opened
 	break_to_drop_loot = false
 
