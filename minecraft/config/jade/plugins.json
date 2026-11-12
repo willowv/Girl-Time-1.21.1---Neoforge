@@ -39,7 +39,7 @@
     "lectern": true,
     "entity_armor": true,
     "harvest_tool.creative": false,
-    "horse_stats": true,
+    "horse_stats": false,
     "item_tooltip": true,
     "entity_health": true,
     "enchantment_power": true,
@@ -77,6 +77,9 @@
   },
   "jadeaddons.lootr": {
     "info": true
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
   },
   "supplementaries": {
     "hat_stand": true
