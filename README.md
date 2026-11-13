@@ -34,6 +34,21 @@
 - Integrated Structures has lore books in its loot tables that introduce what seem to be canonically male characters, I might need to specifically pull those out given my "all Villagers are TMA" premise
 - It would be good to tweak loot generally, removing stupid items and lowering quantities all aroound
 - Craft Tweaker isn't able to edit loot drops anymore it seems, so if I want to make a source of purple dye in the nether I will need to work that out
+- Turn off that "unlock all recipes on start" thing, it's very ugly
+- Turn off the thing where emeralds spawn everywhere
+- first melee level feels about right, then it might get a tad fast
+- first athletics level taking wayyy too long
+- see if I can spread out tree drops with dynamic trees
+- turn off mvs:windmill
+- mvs:red_tower is sick as hell
+- mbs:stable, mvs:horse_campsite isn't using loot tables, should maybe go
+- quiver steals the only belt slot even though lantern can still go on
+- blacklist water from jade
+- does boat item view assume vanilla boats only?
+- solcc idea: if you haven't eaten something before you can eat it even when full; items you haven't eaten before get a little overlay in inventory
+- the weapons and armor trades don't advance fast enough
+- music toasts?
+- a singleplayer version, a client-only version, and a server-only version
 
 # Possible finishing touches
 - Add advancements for the Girl Time modpack
