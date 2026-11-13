@@ -121,10 +121,10 @@
     "enableParticles": true,
     // Enable/disable waterfall mist: many small puffs of mist thrown up where a waterfall lands
     // Default: true
-    "enableMist": false,
+    "enableMist": true,
     // Enable/disable water froth: foam where flowing water drops one block (with a gentle sound) and around where waterfalls land
     // Default: true
-    "enableFroth": false
+    "enableFroth": true
   },
   // Configuration options for flame jets
   "flameJetOptions": {

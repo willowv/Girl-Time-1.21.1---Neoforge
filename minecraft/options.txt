@@ -16,7 +16,7 @@ fullscreen:true
 gamma:0.5
 graphicsMode:1
 guiScale:0
-maxFps:120
+maxFps:60
 mipmapLevels:4
 narrator:0
 particles:0
@@ -131,10 +131,10 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.left.shift
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
-key_supplementaries.keybind.quiver:key.keyboard.left.shift
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -191,7 +191,7 @@ key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
 key_dsurround.text.keybind.lightLevelHud:key.keyboard.unknown
 key_key.antique_atlas.open:key.keyboard.m
-key_key.dead_reckoning.toggle:key.keyboard.unknown
+key_key.dead_reckoning.toggle:key.keyboard.f1
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
