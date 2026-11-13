@@ -46,7 +46,7 @@ compassItems = ["minecraft:compass", "minecraft:recovery_compass"]
 	# Used to represent the waypoint being further away.
 	# range: 0.1 - 1.0
 	# default: 0.1
-	minScale = 0.1
+	minScale = 0.25
 
 [alignment]
 	# The arc (in degrees) the compass should display at once.
@@ -56,7 +56,7 @@ compassItems = ["minecraft:compass", "minecraft:recovery_compass"]
 	# The portion of the screen the compass should occupy.
 	# range: 0.1 - 1.0
 	# default: 0.9
-	screenWidth = 0.5
+	screenWidth = 0.7
 	# The number of pixels below the top of the screen to render the compass.
 	# default: 4
 	yOffset = 4
