@@ -259,7 +259,7 @@
 		#Quiver GUI Y offset from default position
 		# Default: 0
 		# Range: -1000 ~ 1000
-		gui_y_offset = 125
+		gui_y_offset = 100
 
 	[items.wrench]
 		#Display visual particles when a block is rotated
